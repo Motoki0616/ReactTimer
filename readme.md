@@ -10,7 +10,7 @@ I followed [Andrew Mead](http://www.mead.io) tutorials.
 * Mocha
 
 ## Running
-Application has very few dependencies, so it’s most probably very easy to understand when you scan through the code, but there is at least few steps you should know
+Application has few dependencies. There is few steps you should know
 
 ### Install dependencies
 First you need to install dependencies, run command bellow
