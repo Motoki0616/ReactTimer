@@ -1,6 +1,6 @@
 # React Timer
 React Timer that is a really simple React Application.
-I followed [Andrew Mead]: http://www.mead.io "Andrew Mead" tutorials.
+I followed [Andrew Mead](http://www.mead.io) tutorials.
 
 * React
 * Webpack
@@ -14,8 +14,14 @@ Application has very few dependencies, so it’s most probably very easy to unde
 
 ### Install dependencies
 First you need to install dependencies, run command bellow
-`npm install`
+
+```
+npm install
+```
 
 ### Start this Application
-To start this application run command bellow and open your app on [http://localhost:3000]: http://localhost:3000 "Local Host"
-`node server.js`
+To start this application run command bellow and open your app on http://localhost:3000
+
+```
+node server.js
+```
